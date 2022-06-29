@@ -6,10 +6,9 @@ Práctica copycat Sony
     <img src="https://user-images.githubusercontent.com/106440634/176442375-b949a5ad-7cd2-4962-a785-63170cc11300.jpg">
 </a>
                                                                                                                      
-
+<br></br>
                                                                                                                      
 ![Herramientas](https://user-images.githubusercontent.com/106440634/176442563-a02ae127-c270-4a7d-a869-b23ad861c226.png) He utilizado:
-
 
 ![html](https://user-images.githubusercontent.com/106440634/176446859-bc76ff39-3013-4955-aa74-541973bbc7dd.png) 
 ![css](https://user-images.githubusercontent.com/106440634/176447934-2091e80d-655c-4f2f-a4cd-bbac0064add3.png)
