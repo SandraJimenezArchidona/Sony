@@ -16,7 +16,7 @@ Práctica copycat Sony
 
 <br></br>
 
-Ver aqui ![Mano](https://user-images.githubusercontent.com/106440634/176456055-791619b7-5740-4a30-b793-0e749b6d6b9c.png) http://sansandra.com/Sony
+Ver aquí ![Mano](https://user-images.githubusercontent.com/106440634/176456055-791619b7-5740-4a30-b793-0e749b6d6b9c.png) http://sansandra.com/Sony
 
 
 
